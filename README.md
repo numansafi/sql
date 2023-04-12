@@ -1,2 +1,3 @@
 # sql
+
 All things SQL
